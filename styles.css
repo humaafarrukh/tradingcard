@@ -1,0 +1,64 @@
+/* add your CSS here */
+    .animal-card {
+    font-family: "Lato", sans-serif;  
+    border: 1px solid #c6c6c6;
+    width:400px;
+    padding: 0px 10px 10px;
+    margin: 20px;
+    max-height: 900px;
+    border-radius: 20px;
+    background: linear-gradient(#B35D46, #F2C94C, #82764D);
+    color:white;
+        
+}
+  img {
+ 
+ 
+      margin:25px;
+      padding: 0px 10px 5px 10pxs;
+      border: 5px solid #F2C94C;
+      border-radius:20px;
+      maximum width: 500px;
+      align-content: center;
+      
+      
+
+}
+    
+ .content-box{
+        border: 8px solid transparent;
+        max-width: 400px;
+        margin 10px;
+        padding: 10px 10px 10px;
+        border-radius: 5px; 
+     
+
+}
+
+
+h3 {
+        font-family: "Dosis", sans-serif;
+        text-align: center;
+        font-size: 40px;
+        padding: 10px;
+        color: white;
+}
+
+
+
+
+li {
+  
+        list-style-type: none;
+        text-indent: -30px;
+        color: white;
+        font-family: "Lato", sans-serif;  
+
+}
+
+.fact {
+        font-style: italic;
+        color: white;
+
+}
+
